@@ -1,0 +1,76 @@
+.bg-yellow {
+    background-image: url(images/bg\ yellow.png);
+  
+   
+    
+    
+}
+
+.marg-h {
+    margin-top: 100px;
+    margin-left: 80px;
+    font-size: 350%;
+    font-weight: bold;
+    color: white;
+}
+
+.marg-p {
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.marg img {
+    margin-top: 150px;
+    
+    width: 100%;
+    
+}
+.marg{
+    margin: 0px;
+}
+.again-dive {
+    margin-left: 80px;
+    background-color: white;
+    height: 200px;
+    
+    border-radius: 15px;
+    
+}
+
+.dive-1 {
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+
+
+.input-group {
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+
+
+.email-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 25px !important;
+    width: 300px;
+    height: 50px;
+    margin-top: 2px;
+    /* Adjust width as needed */
+}
+
+.submit-button {
+    padding: 0px 10px;
+    border: none;
+    height: 50px;
+    background-color:orangered;
+    font-size: small;
+    color: #fff;
+    margin-left: 5px !important;
+   
+    
+
+
+}
